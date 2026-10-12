@@ -127081,3 +127081,37 @@ Nuestra empresa promueve la inclusión laboral en el marco de la Ley N° 21.015,
 Edad: A partir de 18 años
 Conocimientos: Organización
 Palabras clave: replenisher, surtidor, comerciante, merchandiser, merchant",OTHER,full-time,"Cunco, Araucanía",Publicidad / RRPP,,,315000 CLP,2026-09-25,2026-11-24,2026-12-25,https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-reponedora-mercaderista-full-time-42-hrs--cunco-lunes-a-sabado-turno-am-en-cunco-E643632AC910B8B461373E686DCF3405,Perfil Market Servicios Limitada,,https://ii.ct-stc.com/4/logos/empresas/2021/12/22/37ba501f88724042aff8162935807thumbnail.jpg,Publicidad / RRPP,,,,"Cunco, Araucanía",,https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-reponedora-mercaderista-full-time-42-hrs--cunco-lunes-a-sabado-turno-am-en-cunco-E643632AC910B8B461373E686DCF3405,90b2b0f124386dd7
+267,13,Data Engineer AWS,"Data Engineer AWS
+
+¿Te interesa construir pipelines que mueven la operación de un banco? No reportes aislados, sino el flujo completo: desde los sistemas on-premise hasta la nube, en batch y en tiempo real.
+
+Una entidad del sector financiero está modernizando su plataforma de datos y busca a un/a Data Engineer que quiera ser protagonista de esa migración.
+
+Lo que vas a hacer
+
+Diseñar y construir pipelines de ingesta y procesamiento, batch y real time, sobre AWS.
+Integrar fuentes on-premise (SQL Server y otras) con la plataforma cloud.
+Optimizar jobs de PySpark que procesan volumen real, no datasets de juguete.
+Llevar tus desarrollos a producción con CI/CD y buenas prácticas de ingeniería de software.
+Lo que necesitas traer
+
+Entre 2 y 4 años como Data Engineer.
+PySpark en producción: sabes por qué un job es lento y cómo arreglarlo.
+SQL avanzado sobre SQL Server y/o PostgreSQL, más allá de hacer consultas.
+AWS para datos: Glue, S3, Lambda o EMR.
+Experiencia integrando fuentes on-premise con cloud.
+Git y trabajo en equipos ágiles.
+Suma puntos si tienes
+
+Herramientas de replicación o ETL como DMS o SSIS.
+Streaming (Kinesis, Kafka o similar).
+CI/CD en GitLab.
+NoSQL (DynamoDB, Redis).
+Experiencia en banca o industria regulada.
+Lo que ofrecemos
+
+Contrato: Indefinido
+Modalidad: 90% Remoto, 10% para coordinación..
+-Requerimientos- Educación mínima: Universitaria / I.P. / C.F.T.
+3 años de experiencia
+Palabras clave: datos, data, ingeniero, engineers, ingeniera, ing, engineer",OTHER,full-time,"Santiago - Las condes, R.Metropolitana",Informática / Software,,,,2026-09-25,2026-11-24,2026-12-25,https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-data-engineer-aws-en-santiago-las-condes-FB76DBC7E886913B61373E686DCF3405,Ingenieria informatica Kibernum S.A.,,https://ii.ct-stc.com/4/logos/empresas/2024/10/05/ingenieria-informatica-kibernum-sa-FCEB77AA43CF6B4F042242thumbnail.png,Informática / Software,,,,"Santiago - Las condes, R.Metropolitana",,https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-data-engineer-aws-en-santiago-las-condes-FB76DBC7E886913B61373E686DCF3405,9d0f4aa235978770

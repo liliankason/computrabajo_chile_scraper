@@ -5,16 +5,16 @@
       "attempt": 1,
       "status_code": 200,
       "response_headers": {
-        "Date": "Tue, 13 Oct 2026 12:57:46 GMT",
+        "Date": "Wed, 14 Oct 2026 00:25:46 GMT",
         "Content-Type": "text/html; charset=utf-8",
         "Transfer-Encoding": "chunked",
         "Connection": "keep-alive",
         "Cache-Control": "private,max-age=300",
         "Content-Encoding": "gzip",
-        "Age": "61",
+        "Age": "273",
         "Vary": "*"
       },
-      "body_length": 123057,
+      "body_length": 123058,
       "body_snippet": "<!DOCTYPE html>\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"es-CL\">\r\n<head>\r\n    \r\n    <title>Bolsa de empleo y trabajo en Chile | Buscar trabajo en Computrabajo</title>\r\n\r\n    <meta name=\"title\" content=\"Bolsa de empleo y trabajo en Chile | Buscar trabajo en Computrabajo\" />\r\n    <meta name=\"description\" content=\"Encuentra trabajos en Chile en la Bolsa de empleo de Computrabajo. Ofertas de trabajo actualizadas cada d&#xED;a. Sube tu CV y post&#xFA;late gratis hoy mismo.\" />\r\n    <meta name=\"author\" content=\"Computrabajo Chile\" />\r\n    <meta property=\"og:title\" content=\"Bolsa de empleo y trabajo en Chile | Buscar trabajo en Computrabajo\" />\r\n    <meta property=\"og:description\" content=\"Encuentra trabajos en Chile en la Bolsa de empleo de Computrabajo. Ofertas de trabajo actualizadas cada d&#xED;a. Sube tu CV y post&#xFA;late gratis hoy mismo.\" />\r\n    <meta property=\"og:site_name\" content=\"Computrabajo Chile\" />\r\n    <meta property=\"og:type\" content=\"website\" />\r\n    <meta proper",
       "block_signature_matched": null,
       "final_url_after_redirects": "https://cl.computrabajo.com/"
